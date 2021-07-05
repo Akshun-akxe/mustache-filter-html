@@ -1,0 +1,21 @@
+.btn-info {
+    border-color: white;
+    background-color: black;
+    color: red;
+    font-size: 25px;
+}
+
+.btn-success {
+    border-color: white;
+    background-color: black;
+    color: red;
+    font-size: 18px;
+}
+
+.btn-success :hover {
+    border-color: red;
+    background-color: white;
+    color: black;
+    width: 35px;
+    height: 25px;
+}
